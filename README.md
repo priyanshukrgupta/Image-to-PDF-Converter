@@ -44,7 +44,7 @@ python image_to_pdf.py
 
 ## 🖼️ Application Interface
 
-![Application Interface](screenshots/interface.png)
+![Application Interface](interface.png)
 
 ---
 
