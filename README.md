@@ -51,4 +51,3 @@ python image_to_pdf.py
 ## 👨‍💻 Author
 
 Priyanshu Kumar Gupta
-# Image-to-PDF-Converter
